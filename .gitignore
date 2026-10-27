@@ -1,0 +1,37 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+
+# Local data files written at runtime
+*.log
+*.db
+*.bak
+
+# Credentials
+password.txt
+*.key
+*.secret
+secrets.json
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
